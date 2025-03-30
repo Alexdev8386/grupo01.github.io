@@ -7,7 +7,7 @@ Bienvenidos al portafolio del **Grupo 1** de la Universidad Continental. Aquí e
 ## 🚀 Integrantes del Grupo 1
 
 🔹 **Alex Álvarez Solis**  
-📌 [Ver portafolio](https://alvarezdev.github.io)  
+📌 [Ver portafolio](https://alexdev8386.github.io/Alvarezdev.github.io/)  
 
 ---
 
